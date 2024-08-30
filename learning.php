@@ -16,8 +16,4 @@ class learning
 if(class_exists('learning')){
     $Learning = new learning('Hi everyone');
 }
-// function check($args){
-//     echo $args;
-// }
-// check("hi everyone");
 ?>  
