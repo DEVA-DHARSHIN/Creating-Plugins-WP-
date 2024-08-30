@@ -8,7 +8,7 @@ Author: Devadharshini
 function hook_javascript() {
     ?>
         <script>
-            alert('Hello world...');
+            alert('Hello world...as a message');
         </script>
     <?php
 }
